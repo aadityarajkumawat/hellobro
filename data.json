@@ -1,10 +1,16 @@
 {
-    "data":[
+  "data": [
     {
-    "name":"Shubham Sharma",
-    "email":"shubhamsharma31031991@gmail.com",
-    "phone":"9879876542",
-    "rollno":"2020btechcse072"
+      "name": "Shubham Sharma",
+      "email": "shubhamsharma31031991@gmail.com",
+      "phone": "9879876542",
+      "rollno": "2020btechcse072"
+    },
+    {
+      "name": "Aditya Raj Kumawat",
+      "email": "arkumawat78@gmail.com",
+      "phone": "37648927643",
+      "rollno": "2020btechcse005"
     }
-    ]
+  ]
 }
